@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <array name="typing_words">
+            <item>compose</item>
+            <item>android</item>
+            <item>jetpack</item>
+            <item>keyboard</item>
+            <item>coroutines</item>
+            <item>performance</item>
+            <item>developer</item>
+            <item>function</item>
+            <item>variable</item>
+            <item>kotlin</item>
+        </array>
+    </resources>
+
+</PreferenceScreen>

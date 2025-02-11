@@ -2,17 +2,28 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <resources>
         <array name="typing_words">
-            <item>compose</item>
-            <item>android</item>
-            <item>jetpack</item>
-            <item>keyboard</item>
-            <item>coroutines</item>
-            <item>performance</item>
-            <item>developer</item>
-            <item>function</item>
-            <item>variable</item>
-            <item>kotlin</item>
+            <item>serendipity</item>
+            <item>mellifluous</item>
+            <item>ineffable</item>
+            <item>ephemeral</item>
+            <item>quixotic</item>
+            <item>petrichor</item>
+            <item>sonder</item>
+            <item>limerence</item>
+            <item>sonorous</item>
+            <item>solitude</item>
+            <item>oblivion</item>
+            <item>cascade</item>
+            <item>euphoria</item>
+            <item>reverie</item>
+            <item>lagoon</item>
+            <item>nocturnal</item>
+            <item>luminous</item>
+            <item>cynosure</item>
+            <item>tranquil</item>
+            <item>resonance</item>
         </array>
     </resources>
+
 
 </PreferenceScreen>
